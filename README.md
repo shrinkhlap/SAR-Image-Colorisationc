@@ -33,7 +33,7 @@ This project implements a **deep learning pipeline** to colorize grayscale **Sen
 ## Training
 
 * Trained with **MSE loss** on paired Sentinel-1 and Sentinel-2 images.
-* Achieved progressively decreasing loss: **\~0.039 → 0.033 over 5 epochs**.
+* Achieved progressively decreasing loss: **\~0.039 → 0.033 over increasing the number of epochs**.
 * Optimized for robust generalization across various terrains.
 
 ---
