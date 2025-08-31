@@ -23,7 +23,7 @@ This project implements a **deep learning model** to colorize grayscale **Sentin
 
 * Input: Grayscale Sentinel-1 image
 * Output: Colorized Sentinel-2 style image
-  Output.jpg/Output.jpg
+  
   
 
 ## Training
